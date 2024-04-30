@@ -22,7 +22,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 -->
 # This has moved.
-### https://github.com/Exverge/yuzu-games-parser
+### https://github.com/exverge-0/yuzu-games-parser
 Unless suyu chooses to continue this, this will only be updated (if at all) on my GitHub profile.
 
 
